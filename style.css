@@ -30,12 +30,7 @@ body{
     text-align: center;
     justify-content: space-around;
     padding: 6px;
-}
-#noticias2{
-    display:flex;
-    text-align: center;
-    justify-content: space-around;
-    padding: 6px;
+    flex-wrap: wrap;
 }
 
 .noticia{
@@ -52,4 +47,10 @@ footer{
     background-color: black;
     color: white;
     padding: 50px;
+}
+#mascote{
+    width: 200px;
+    height: 160px;
+    display:flex;
+    align-items: end;
 }
