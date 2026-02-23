@@ -1,4 +1,15 @@
 #escudo{
-    width: 80px;
-    height: 80px;
+    width: 200px;
+    height: 200px;
+}
+
+#navbar{
+    background-color: black;
+    color: white;
+
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color: aliceblue;
 }
