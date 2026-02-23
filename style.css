@@ -9,7 +9,21 @@
 
     display: flex;
     justify-content: space-between;
+    align-items: center;
+
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-body{
-    background-color: aliceblue;
+
+#noticias{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 6px;
+}
+
+.noticia{
+    background-color: rgb(91, 93, 95);
+    color: white;
+    border: 4px solid black;
 }
