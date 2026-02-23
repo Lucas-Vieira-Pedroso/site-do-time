@@ -26,7 +26,13 @@ body{
 }
 
 #noticias{
-    display: flex;
+    display:flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 6px;
+}
+#noticias2{
+    display:flex;
     text-align: center;
     justify-content: space-around;
     padding: 6px;
