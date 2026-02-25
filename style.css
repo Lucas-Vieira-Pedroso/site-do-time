@@ -67,6 +67,7 @@ margin: 40px;
     align-items: center;
     padding: 10px;
     background-color: white;
+}
 .jogador2{
     display: flex;
     justify-content: space-between;
