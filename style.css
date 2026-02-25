@@ -60,7 +60,18 @@ footer{
     height: 150px;
     z-index: 999999;
 }
-#jogador2{
-        display: flex;
-
+#escalacao{
+margin: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    background-color: white;
+.jogador2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    width: 52px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
